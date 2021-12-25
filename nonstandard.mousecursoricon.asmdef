@@ -1,0 +1,16 @@
+{
+    "name": "nonstandard.mousecursoricon",
+    "rootNamespace": "",
+    "references": [
+        "GUID:6ee1dc0db5778894f86222e9eb7ab103"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
