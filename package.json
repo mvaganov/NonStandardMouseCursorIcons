@@ -1,9 +1,9 @@
 {
   "name": "com.codegiraffe.nonstandard.mousecursoricons",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "displayName": "NonStandard MouseCursorIcons",
   "description": "Mouse cursor icons",
-  "unity": "2017.1",
+  "unity": "2019.4",
   "keywords": [
     "mouse",
     "utility",
